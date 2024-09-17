@@ -83,6 +83,7 @@ Check Out the Docs:- https://docs.google.com/document/d/13eMVTDcUMoxLo_TYnmINwH0
   - [CodeChef](https://www.codechef.com/)
 
 ## 12. For Developers
+  - [World Data API](https://github.com/Asabeneh/world-countries-data-api)
   - [Free for Dev on GitHub](https://github.com/jixserver/free-for-dev)
     - [Free for Dev](https://free-for.dev/#/)
 
@@ -104,7 +105,15 @@ Check Out the Docs:- https://docs.google.com/document/d/13eMVTDcUMoxLo_TYnmINwH0
 ## 18. Roadmap
   - [RoadMap Finder & Generator](https://roadmap.sh/)
 
-## 19. Front-End Development
+## 19. Study Material
+  - [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+  - [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)
+  - [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React)
+  - [10 Days Of Git and GitHub](https://github.com/Asabeneh/10-days-of-git-and-github)
+  - [30 Days Of HTML](https://github.com/Asabeneh/30-Days-Of-HTML)
+  - [JavaScript for Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
+
+## 20. Front-End Development
   - **UI Components**:
     - [TailwindFlex](https://tailwindflex.com/)
     - [Kitwind Kometa](https://kitwind.io/products/kometa/components)
