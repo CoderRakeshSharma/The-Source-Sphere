@@ -23,6 +23,7 @@ Check Out the Docs:- https://docs.google.com/document/d/13eMVTDcUMoxLo_TYnmINwH0
   - **CollegeBasic Projects**:
     - [CodeWithRandom](https://www.codewithrandom.com/)
     - [EnggRoom](https://www.enggroom.com/)
+    - [CodeCrafters.io](https://github.com/codecrafters-io/build-your-own-x)
   - **Python Projects**:
     - [Top 100 Python Projects](https://copyassignment.com/top-100-python-projects-with-source-code/)
   - **ML Projects with DataSet**:
@@ -41,15 +42,32 @@ Check Out the Docs:- https://docs.google.com/document/d/13eMVTDcUMoxLo_TYnmINwH0
   - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/tree/main)
 
 ## 9. Cheat Sheets
+
   - **Data Science**:
     - [DataCamp Cheat Sheet](https://www.datacamp.com/cheat-sheet)
+    - [35 Website Cheat Sheets for Developers](https://levelup.gitconnected.com/35-website-cheat-sheets-for-developers-f8da96aa84f1)
+    - [SheCodes Cheat Sheets](https://cheatsheets.shecodes.io/)
+    - [Posit Data Science Cheat Sheets](https://posit.co/resources/cheatsheets/)
+    - [Data Science Cheat Sheet by George Arun](https://github.com/georgearun/Data-Science--Cheat-Sheet)
+  
   - **Programming**:
     - [OverAPI](https://overapi.com/)
     - [DevHints](https://devhints.io/)
+    - [Golang Cheat Sheet](https://kevincobain2000.github.io/golang-cheat-sheet/)
+    - [RStudio Cheat Sheets](https://rstudio.github.io/cheatsheets/)
+    - [Christian Lempa's GitHub Cheat Sheets](https://github.com/ChristianLempa/cheat-sheets)
+  
   - **Shortcuts**:
     - [Shortcuts Design](https://shortcuts.design/)
     - [Cheatography](https://cheatography.com/)
-
+  
+  - **Emoji & Docker**:
+    - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file#face-smiling)
+    - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet?tab=readme-ov-file)
+  
+  - **Machine Learning & Deep Learning**:
+    - [Essential Cheat Sheets for Machine Learning and Deep Learning Researchers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
+  
 ## 10. Free Programming Websites
   - [W3Schools](https://www.w3schools.com/)
   - [Javatpoint](https://www.javatpoint.com/)
