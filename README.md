@@ -92,6 +92,7 @@ Check Out the Docs:- https://docs.google.com/document/d/13eMVTDcUMoxLo_TYnmINwH0
 - [Programiz](https://www.programiz.com/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [Coddy Tech](https://coddy.tech/)
+- [All Programming Algorithms](https://the-algorithms.com/).
 
 ## 11. Coding Practice
 
