@@ -33,6 +33,9 @@ Check Out the Docs:- https://docs.google.com/document/d/13eMVTDcUMoxLo_TYnmINwH0
   - [Top 100 Python Projects](https://copyassignment.com/top-100-python-projects-with-source-code/)
 - **ML Projects with DataSet**:
   - [Kaggle](https://www.kaggle.com/)
+- **Useful Python Scripts with Code**:
+  - [Useful Python Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
+  - [Python Project Scripts](https://github.com/larymak/Python-project-Scripts).
 - **React Projects with Code**:
   - [React JS Example](https://reactjsexample.com/)
 
@@ -89,6 +92,7 @@ Check Out the Docs:- https://docs.google.com/document/d/13eMVTDcUMoxLo_TYnmINwH0
 - [Programiz](https://www.programiz.com/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [Coddy Tech](https://coddy.tech/)
+- [All Programming Algorithms](https://the-algorithms.com/).
 
 ## 11. Coding Practice
 
