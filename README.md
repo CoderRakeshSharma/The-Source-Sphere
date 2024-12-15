@@ -11,7 +11,7 @@ Welcome to the ultimate collection of **curated resources for students, professi
 
 Check Out the Docs:- https://docs.google.com/document/d/13eMVTDcUMoxLo_TYnmINwH0163C-Is3HJaxCG4q5M0c/edit?usp=sharing
 
-## Explore Now😊
+## 😊Explore Now⏬
 
 ## 1. Github Profile
 
