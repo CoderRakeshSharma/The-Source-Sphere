@@ -9,10 +9,6 @@ Welcome to the ultimate collection of **curated resources for students, professi
 
 ### Level up your coding journey today! 💻✨
 
-Also Check Out:-
-  #### ➡ [The Docs](https://docs.google.com/document/d/13eMVTDcUMoxLo_TYnmINwH0163C-Is3HJaxCG4q5M0c/edit?usp=sharing)
-  #### ➡ [The Collection Drive](https://drive.google.com/drive/folders/1CCvsitfrRUwSrvd7dGL3M7DAKgh6v4zn?usp=sharing)
-
 ## 📚 **Table of Contents**
 
 1. [GitHub Profile](#1-github-profile)  
@@ -37,6 +33,10 @@ Also Check Out:-
 20. [Useful Multi-purpose Websites](#20-useful-multi-purpose-websites)  
 21. [Front-End Development](#21-front-end-development)
 
+Also Check Out:-
+  #### ➡ [The Docs](https://docs.google.com/document/d/13eMVTDcUMoxLo_TYnmINwH0163C-Is3HJaxCG4q5M0c/edit?usp=sharing)
+  #### ➡ [The Collection Drive](https://drive.google.com/drive/folders/1CCvsitfrRUwSrvd7dGL3M7DAKgh6v4zn?usp=sharing)
+  
 ## 😊Explore Now⏬
 
 ## 1. Github Profile
