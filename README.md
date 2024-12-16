@@ -11,7 +11,7 @@ Welcome to the ultimate collection of **curated resources for students, professi
 
 ## 📚 **Table of Contents**
 
-1. [GitHub Profile](#github-profile)  
+1. [GitHub Profile](#1-github-profile)  
 2. [Readme File & Social Image Generator](#2-readme-file--social-image-generator-for-github)  
 3. [Screenshot Editor](#3-screenshot-editor)  
 4. [Different AI Models in a Single App](#4-different-ai-models-in-a-single-app)  
