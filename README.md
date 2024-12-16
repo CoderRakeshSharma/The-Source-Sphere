@@ -40,13 +40,10 @@ Also Check Out:-
 ## 😊Explore Now⏬
 
 
-<details>
-<summary>## 1. GitHub Profile</summary>
+## 1. Github Profile
 
-- [Awesome GitHub Profile Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)  
-- [Awesome GitHub Profile by zzetao](https://zzetao.github.io/awesome-github-profile/)  
-
-</details>
+- [Awesome Github Profile Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+  - [Awesome Github Profile by zzetao](https://zzetao.github.io/awesome-github-profile/)
 
 ## 2. Readme File & Social Image Generator for Github
 
