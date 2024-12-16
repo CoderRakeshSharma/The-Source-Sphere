@@ -11,7 +11,7 @@ Welcome to the ultimate collection of **curated resources for students, professi
 
 ## 📚 **Table of Contents**
 
-1. [GitHub Profile](#1-github-profile)  
+1. [GitHub Profile](#github-profile)  
 2. [Readme File & Social Image Generator](#2-readme-file--social-image-generator-for-github)  
 3. [Screenshot Editor](#3-screenshot-editor)  
 4. [Different AI Models in a Single App](#4-different-ai-models-in-a-single-app)  
@@ -39,10 +39,14 @@ Also Check Out:-
   
 ## 😊Explore Now⏬
 
-## 1. Github Profile
 
-- [Awesome Github Profile Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-  - [Awesome Github Profile by zzetao](https://zzetao.github.io/awesome-github-profile/)
+<details>
+<summary>## 1. GitHub Profile</summary>
+
+- [Awesome GitHub Profile Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)  
+- [Awesome GitHub Profile by zzetao](https://zzetao.github.io/awesome-github-profile/)  
+
+</details>
 
 ## 2. Readme File & Social Image Generator for Github
 
