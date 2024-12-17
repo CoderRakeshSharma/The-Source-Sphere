@@ -49,6 +49,7 @@ Also Check Out:-
 
 - [Readme.so](https://readme.so/)
 - [Github Social Image Generator](https://www.bannerbear.com/demos/github-social-preview-generator-tool/#try_a_git)
+- [Github Activity Generator](https://github.com/Shpota/github-activity-generator)
 
 ## 3. Screenshot Editor
 
