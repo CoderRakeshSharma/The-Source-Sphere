@@ -1,4 +1,4 @@
-# 90+ Open Data Sources
+# Various Open Data Sources
 
 ## **Global Data**
 
