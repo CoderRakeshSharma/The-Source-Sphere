@@ -119,6 +119,9 @@ Also Check Out:-
 - **Machine Learning & Deep Learning**:
   - [Essential Cheat Sheets for Machine Learning and Deep Learning Researchers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 
+- **Various Useful Resource Collection**:
+  - [Insane](https://www.theinsaneapp.com/)
+
 ## 10. Free Programming Websites
 
 - [W3Schools](https://www.w3schools.com/)
