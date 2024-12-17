@@ -66,6 +66,8 @@ Also Check Out:-
   - [CodeCrafters.io](https://github.com/codecrafters-io/build-your-own-x)
 - **Python Projects**:
   - [Top 100 Python Projects](https://copyassignment.com/top-100-python-projects-with-source-code/)
+- **Web-Dev-Mini-Projects**:
+  - [Web-Dev-Mini-Projects with Code](https://github.com/Ayushparikh-code/Web-dev-mini-projects)
 - **ML Projects with DataSet**:
   - [Kaggle](https://www.kaggle.com/)
 - **Useful Python Scripts with Code**:
