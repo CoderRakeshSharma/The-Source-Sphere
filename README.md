@@ -90,6 +90,7 @@ Also Check Out:-
 
 - [PDFDrive](https://www.pdfdrive.com/)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/tree/main)
+- [Free Computer Science Books](https://freecomputerbooks.com/)
 
 ## 9. Cheat Sheets
 
