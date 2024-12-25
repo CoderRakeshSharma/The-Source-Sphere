@@ -125,6 +125,7 @@ Also Check Out:-
 
 - **Various Useful Resource Collection**:
   - [Insane](https://www.theinsaneapp.com/)
+  - [Developer Cheat Sheet](https://github.com/cherkavi/cheat-sheet)
 
 ## 10. Free Programming Websites
 
