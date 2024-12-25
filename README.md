@@ -101,6 +101,7 @@ Also Check Out:-
   - [SheCodes Cheat Sheets](https://cheatsheets.shecodes.io/)
   - [Posit Data Science Cheat Sheets](https://posit.co/resources/cheatsheets/)
   - [Data Science Cheat Sheet by George Arun](https://github.com/georgearun/Data-Science--Cheat-Sheet)
+  - [Big Data](https://www.kaggle.com/discussions/getting-started/82265)
 
 - **Programming**:
 
