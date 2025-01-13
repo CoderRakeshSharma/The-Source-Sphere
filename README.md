@@ -167,7 +167,9 @@ Also Check Out:-
 ## 16. LinkedIn Skill Assessment Quizzes Solution
 
 - [LinkedIn Skill Assessments Quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-- [LeetCode-Solutions](https://github.com/Ayushparikh-code/LeetCode-Solutions)
+- [LeetCode-Solutions]
+  - [LINK 1](https://github.com/Ayushparikh-code/LeetCode-Solutions)
+  - [LINK 2](https://github.com/Zhenye-Na/leetcode)
 
 ## 17. Snippets for JavaScript & React Use Cases
 
