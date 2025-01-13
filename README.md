@@ -127,6 +127,7 @@ Also Check Out:-
 - **Various Useful Resource Collection**:
   - [Insane](https://www.theinsaneapp.com/)
   - [Developer Cheat Sheet](https://github.com/cherkavi/cheat-sheet)
+  - [AWS Cheat Sheet](https://github.com/Zhenye-Na/aws-certs-cheatsheet)
 
 ## 10. Free Programming Websites
 
