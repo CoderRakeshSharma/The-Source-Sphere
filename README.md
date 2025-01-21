@@ -187,6 +187,7 @@ Also Check Out:-
 - [10 Days Of Git and GitHub](https://github.com/Asabeneh/10-days-of-git-and-github)
 - [30 Days Of HTML](https://github.com/Asabeneh/30-Days-Of-HTML)
 - [JavaScript for Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
+- [Cheat Sheet Maker](https://www.mymap.ai/cheat-sheet-maker)
 
 ## 20. Useful Multi-purpose Websites
 
