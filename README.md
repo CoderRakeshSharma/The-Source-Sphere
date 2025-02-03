@@ -34,7 +34,7 @@ Welcome to the ultimate collection of **curated resources for students, professi
 21. [Front-End Development](#21-front-end-development)
 
 Also Check Out:-
-  #### ➡ [The Docs](https://docs.google.com/document/d/13eMVTDcUMoxLo_TYnmINwH0163C-Is3HJaxCG4q5M0c/edit?usp=sharing)
+  #### ➡ [The Docs](https://docs.google.com/document/d/1hOa-g98hcmsb5Q6q2Fr-8Xx1KCio1qcx/edit?usp=drive_link&ouid=109251684486324610851&rtpof=true&sd=true)
   #### ➡ [The-Source-Sphere-Drive](https://drive.google.com/drive/folders/1LjVu-5FBayBCrOM-t_kN-rLMWDr5ZgRI?usp=drive_link)
   
 ## 😊Explore Now⏬
