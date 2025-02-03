@@ -35,7 +35,7 @@ Welcome to the ultimate collection of **curated resources for students, professi
 
 Also Check Out:-
   #### ➡ [The Docs](https://docs.google.com/document/d/13eMVTDcUMoxLo_TYnmINwH0163C-Is3HJaxCG4q5M0c/edit?usp=sharing)
-  #### ➡ [The Collection Drive](https://drive.google.com/drive/folders/1CCvsitfrRUwSrvd7dGL3M7DAKgh6v4zn?usp=sharing)
+  #### ➡ [The-Source-Sphere-Drive](https://drive.google.com/drive/folders/1LjVu-5FBayBCrOM-t_kN-rLMWDr5ZgRI?usp=drive_link)
   
 ## 😊Explore Now⏬
 
