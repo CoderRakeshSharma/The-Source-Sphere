@@ -192,6 +192,8 @@ Also Check Out:-
 - [JavaScript for Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
 - [Cheat Sheet Maker](https://www.mymap.ai/cheat-sheet-maker)
 - [Perfect Roadmap To Learn Data Science In 2024](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024)
+- [The Grand Complete Data Science Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)
+- [Interview Question - Data Science](https://github.com/iNeuronai/interview-question-data-science-)
 
 ## 20. Useful Multi-purpose Websites
 
