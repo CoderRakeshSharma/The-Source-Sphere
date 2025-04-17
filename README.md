@@ -191,6 +191,7 @@ Also Check Out:-
 - [30 Days Of HTML](https://github.com/Asabeneh/30-Days-Of-HTML)
 - [JavaScript for Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
 - [Cheat Sheet Maker](https://www.mymap.ai/cheat-sheet-maker)
+- [Perfect Roadmap To Learn Data Science In 2024](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024)
 
 ## 20. Useful Multi-purpose Websites
 
