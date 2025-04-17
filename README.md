@@ -72,7 +72,7 @@ Also Check Out:-
   - [Web-Dev-Mini-Projects with Code](https://github.com/Ayushparikh-code/Web-dev-mini-projects)
 - **ML Projects with DataSet**:
   - [Kaggle](https://www.kaggle.com/)
-  - [99-ML-Learning-Projects](https://github.com/gimseng/99-ML-Learning-Projects)
+  - [ML-Learning-Projects](https://github.com/gimseng/99-ML-Learning-Projects)
 - **Useful Python Scripts with Code**:
   - [Useful Python Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
   - [Python Project Scripts](https://github.com/larymak/Python-project-Scripts).
