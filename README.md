@@ -66,6 +66,7 @@ Also Check Out:-
   - [CodeWithRandom](https://www.codewithrandom.com/)
   - [EnggRoom](https://www.enggroom.com/)
   - [CodeCrafters.io](https://github.com/codecrafters-io/build-your-own-x)
+  - [Java-Projects-Collections](https://github.com/kishanrajput23/Java-Projects-Collections)
 - **Python Projects**:
   - [Top 100 Python Projects](https://copyassignment.com/top-100-python-projects-with-source-code/)
 - **Web-Dev-Mini-Projects**:
@@ -132,6 +133,9 @@ Also Check Out:-
   - [AWS Cheat Sheet](https://github.com/Zhenye-Na/aws-certs-cheatsheet)
   - [National Digital Library of India (NDLI)](https://ndl.iitkgp.ac.in/)
   - [Building a Basic Chatbot](https://github.com/CoderRakeshSharma/Building-a-Basic-Chatbot)
+  - [Love-Babbar-CPP-DSA-Course](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course)
+  - [Love-Babbar-Web-Development-Course](https://github.com/kishanrajput23/Love-Babbar-Web-Development-Course)
+  - [Programming-Resources](https://github.com/kishanrajput23/Programming-Resources)
 
 ## 10. Free Programming Websites
 
@@ -168,9 +172,10 @@ Also Check Out:-
 
 - [OneLang Code Converter](https://ide.onelang.io/)
 
-## 16. LinkedIn Skill Assessment Quizzes Solution
+## 16. Skill Assessment Quizzes Solution
 
 - [LinkedIn Skill Assessments Quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+- [InterviewBit-Solutions](https://github.com/kishanrajput23/InterviewBit-Solutions)
 - [LeetCode-Solutions]
   - [LINK 1](https://github.com/Ayushparikh-code/LeetCode-Solutions)
   - [LINK 2](https://github.com/Zhenye-Na/leetcode)
