@@ -143,6 +143,7 @@ Also Check Out:-
   - [Awesome-Mac](https://github.com/jaywcjlove/awesome-mac)
   - [Awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
   - [Github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+  - [Awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 ## 10. Free Programming Websites
 
