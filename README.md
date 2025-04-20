@@ -99,6 +99,7 @@ Also Check Out:-
 
 - **Data Science**:
 
+  - [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
   - [DataCamp Cheat Sheet](https://www.datacamp.com/cheat-sheet)
   - [35 Website Cheat Sheets for Developers](https://levelup.gitconnected.com/35-website-cheat-sheets-for-developers-f8da96aa84f1)
   - [SheCodes Cheat Sheets](https://cheatsheets.shecodes.io/)
@@ -136,6 +137,12 @@ Also Check Out:-
   - [Love-Babbar-CPP-DSA-Course](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course)
   - [Love-Babbar-Web-Development-Course](https://github.com/kishanrajput23/Love-Babbar-Web-Development-Course)
   - [Programming-Resources](https://github.com/kishanrajput23/Programming-Resources)
+  - [Awesome-Python](https://github.com/vinta/awesome-python)
+  - [The-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+  - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+  - [Awesome-Mac](https://github.com/jaywcjlove/awesome-mac)
+  - [Awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+  - [Github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 ## 10. Free Programming Websites
 
