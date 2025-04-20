@@ -74,6 +74,7 @@ Also Check Out:-
 - **ML Projects with DataSet**:
   - [Kaggle](https://www.kaggle.com/)
   - [ML-Learning-Projects](https://github.com/gimseng/99-ML-Learning-Projects)
+  - [Machine-Learning-Projects](https://github.com/aswintechguy/Machine-Learning-Projects)
 - **Useful Python Scripts with Code**:
   - [Useful Python Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
   - [Python Project Scripts](https://github.com/larymak/Python-project-Scripts).
@@ -144,6 +145,7 @@ Also Check Out:-
   - [Awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
   - [Github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
   - [Awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+  - [Data-science-ML-and-DL-Resources](https://github.com/chethanhn29/Data-science-ML-and-DL-Resources)
 
 ## 10. Free Programming Websites
 
