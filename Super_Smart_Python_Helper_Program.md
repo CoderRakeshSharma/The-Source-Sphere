@@ -146,4 +146,4 @@ If you like this, don’t forget to ⭐ star this on GitHub and share it with yo
 
 ### 🧲 Download the Code
 
-[![Download](https://img.shields.io/badge/Download-Python%20Code-brightgreen?style=for-the-badge&logo=python)](https://github.com/your-username/your-repo-name/raw/main/main.py)
+[![Download](https://img.shields.io/badge/Download-Python%20Code-brightgreen?style=for-the-badge&logo=python)](https://github.com/CoderRakeshSharma/MathoMate-Smart-Math-Buddy/blob/main/MathoMate.py)
