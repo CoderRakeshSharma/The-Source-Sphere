@@ -162,6 +162,12 @@ Also Check Out:-
 - [LeetCode](https://leetcode.com/)
 - [HackerEarth](https://www.hackerearth.com/for-developers/)
 - [CodeChef](https://www.codechef.com/)
+- [Codewars](https://www.codewars.com/)
+- [Exercism](https://exercism.org/)
+- [Codeforces](https://codeforces.com/)
+- [Topcoder](https://www.topcoder.com/)
+- [Coderbyte](https://coderbyte.com/)
+- [Projecteuler](https://projecteuler.net/)
 
 ## 12. For Developers
 
